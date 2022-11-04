@@ -1,0 +1,8 @@
+node_modules
+src
+static
+.*
+svelte.config.js
+tsconfig.json
+vite.config.ts
+*.lock

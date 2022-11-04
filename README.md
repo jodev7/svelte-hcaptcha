@@ -1,0 +1,1 @@
+# Svelte HCaptcha Component
