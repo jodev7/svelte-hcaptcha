@@ -17,6 +17,7 @@
       DARK = 'dark',
       LIGHT = 'light',
     }
+    //
   </script>
   
   <script lang="ts">
