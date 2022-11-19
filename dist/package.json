@@ -4,6 +4,7 @@
   "exports": {
     "./package.json": "./package.json",
     ".": "./HCaptcha.svelte",
+    "./index.d.ts": "./index.d.ts",
     "./HCaptcha.svelte": "./HCaptcha.svelte"
   },
   "devDependencies": {

@@ -1,1 +1,0 @@
-export {default as HCaptcha} from './lib/HCaptcha.svelte'
